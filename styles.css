@@ -1,1 +1,7 @@
-/* your styles will go here!! */
+* {
+  outline: red 1px solid;
+}
+
+img {
+  max-width: 100%; 
+}
